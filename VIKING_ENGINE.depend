@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1490005883 source:c:\users\responsable\desktop\viking_engine\main.cpp
+
+1490006195 source:c:\users\responsable\desktop\viking_engine\sequence.cpp
+	"Sequence.hpp"
+
+1490006588 c:\users\responsable\desktop\viking_engine\sequence.hpp
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/System/Time.hpp>
+
+1490007009 c:\users\responsable\desktop\viking_engine\throwerofsequences.hpp
+	<stack>
+	<memory>
+	<SFML/Window/Event.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Sequence.hpp"
+
+1490012344 source:c:\users\responsable\desktop\viking_engine\throwerofsequences.cpp
+	"ThrowerOfSequences.hpp"
+
